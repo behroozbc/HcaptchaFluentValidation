@@ -2,6 +2,17 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Title>Hcaptcha FluentValidation</Title>
+    <AssemblyTitle>Hcaptcha FluentValidation</AssemblyTitle>
+    <Authors>Behrooz Bozorg Chami;Github Contributors</Authors>
+    <PackageTags>hCaptcha;reCAPTCHA;CAPTCHA;anit-bots</PackageTags>
+    <IsPackable>true</IsPackable>
+    <PackageProjectUrl>https://github.com/behroozbc/HcaptchaFluentValidation</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/behroozbc/HcaptchaFluentValidation</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <Version>1.0.0</Version>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
