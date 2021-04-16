@@ -3,7 +3,7 @@ using System.Text.Json.Serialization;
 
 namespace HcaptchaFluentValidation
 {
-    public class HCaptchaResponse
+    class HCaptchaResponse
     {
         [JsonPropertyName("success")]
         public bool Success { get; set; }
